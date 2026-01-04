@@ -12,6 +12,15 @@ An enthusiastic and dedicated Animal Science and Industry undergraduate from <br
 
 ### 💻 Tech Stack:
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiorizkyramadhaniputra&show_icons=true&theme=react&hide_border=false" alt="Stats tiorizkyramadhaniputra" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiorizkyramadhaniputra&layout=compact&theme=react&hide_border=false" alt="Langs tiorizkyramadhaniputra" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiorizkyramadhaniputra&theme=react&hide_border=false" alt="Streak tiorizkyramadhaniputra" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
