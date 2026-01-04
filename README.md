@@ -10,17 +10,13 @@ An enthusiastic and dedicated Animal Science and Industry undergraduate from <br
 
 ### 📊 GitHub Stats:
 
-### 💻 Tech Stack:
-
-### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiorizkyramadhaniputra&show_icons=true&theme=react&hide_border=false" alt="Stats tiorizkyramadhaniputra" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiorizkyramadhaniputra&show_icons=true&theme=react&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiorizkyramadhaniputra&layout=compact&theme=react&hide_border=false" alt="Langs tiorizkyramadhaniputra" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiorizkyramadhaniputra&theme=react&hide_border=false" alt="Streak tiorizkyramadhaniputra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiorizkyramadhaniputra&layout=compact&theme=react&hide_border=false&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiorizkyramadhaniputra&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
