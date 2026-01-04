@@ -16,7 +16,6 @@ An enthusiastic and dedicated Animal Science and Industry undergraduate from <br
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiorizkyramadhaniputra&layout=compact&theme=react&hide_border=false&cache_seconds=1800" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiorizkyramadhaniputra&theme=react&hide_border=false" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiorizkyramadhaniputra)](https://git.io/streak-stats)
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
