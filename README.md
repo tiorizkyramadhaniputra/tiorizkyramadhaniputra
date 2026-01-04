@@ -10,5 +10,5 @@ An enthusiastic and dedicated Animal Science and Industry undergraduate from <br
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiorizkyramadhaniputra&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiorizkyramadhaniputra&theme=react&hide_border=false&cache_seconds=1800)](https://git.io/streak-stats)
 
