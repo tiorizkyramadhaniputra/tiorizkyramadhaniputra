@@ -10,15 +10,8 @@ An enthusiastic and dedicated Animal Science and Industry undergraduate from <br
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiorizkyramadhaniputra&show_icons=true&theme=react&hide_border=false" alt="GitHub Stats" />
-</p>
+### 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiorizkyramadhaniputra&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiorizkyramadhaniputra&theme=react&hide_border=false" alt="GitHub Streak" />
-</p>
----
-[![](https://visitcount.itsvg.in/api?id=tiorizkyramadhaniputra&icon=0&color=0)](https://visitcount.itsvg.in)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
